@@ -1,4 +1,5 @@
 # .github/workflows/check_iptv.yml
+
 name: Check IPTV Sources
 
 on:
@@ -8,7 +9,7 @@ on:
     paths:
       - 'iptv.txt'
   schedule:
-    - cron: '0 0 * * *' # 每天UTC时间午夜运行
+    - cron: '0 0 * * *' # 每天 UTC 时间午夜运行
   workflow_dispatch: # 允许手动触发
 
 jobs:
@@ -24,21 +25,31 @@ jobs:
         run: |
           output_file="output.txt"
           temp_file="temp_output.txt"
+          
+          # 清空临时文件
           echo -n "" > "$temp_file"
           
-          # 读取iptv.txt文件，一行一行处理
+          echo "Starting to check IPTV links..."
+          
+          # 读取 iptv.txt 文件，一行一行处理
+          # IFS=',' 是为了告诉 read 命令以逗号作为分隔符
           while IFS=',' read -r name url; do
-            # 忽略空行
-            if [[ -z "$name" ]]; then
+            # 忽略空行或以 # 开头的注释行
+            if [[ -z "$name" || "$name" =~ ^# ]]; then
               continue
             fi
             
+            # 使用 trim 函数去除 name 和 url 前后的多余空格
+            name=$(echo "$name" | xargs)
+            url=$(echo "$url" | xargs)
+
             echo "Checking: $name - $url"
             
-            # 使用curl检查URL，只获取HTTP状态码
+            # 使用 curl 检查 URL 的 HTTP 状态码
             # -s: 静默模式，不显示进度或错误信息
             # -o /dev/null: 将输出丢弃
-            # -w "%{http_code}": 只输出HTTP状态码
+            # -w "%{http_code}": 只输出 HTTP 状态码
+            # -m 10: 设置超时时间为 10 秒
             http_code=$(curl -s -o /dev/null -w "%{http_code}" -m 10 "$url")
             
             if [ "$http_code" -eq 200 ]; then
@@ -49,10 +60,11 @@ jobs:
             fi
           done < iptv.txt
           
-          # 对结果进行排序
+          # 对结果进行排序并保存到 output.txt
+          echo "Sorting and saving valid links to output.txt..."
           sort "$temp_file" -o "$output_file"
           
-          # 如果 output.txt 文件有变化，需要提交到仓库
+          # 检查 output.txt 是否有变化
           if git diff --exit-code "$output_file"; then
             echo "No changes in output.txt, skipping commit."
             echo "::set-output name=has_changes::false"
@@ -72,3 +84,4 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: main # 确保分支名称正确，比如 main 或 master
+          force: true # 强制推送，以避免因远程仓库有新提交而导致的冲突
