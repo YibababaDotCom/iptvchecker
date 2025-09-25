@@ -50,9 +50,12 @@ jobs:
             # -o /dev/null: 将输出丢弃
             # -w "%{http_code}": 只输出 HTTP 状态码
             # -m 10: 设置超时时间为 10 秒
-            http_code=$(curl -s -o /dev/null -w "%{http_code}" -m 10 "$url")
+            # || true: 这一部分是关键！它确保即使 curl 命令因错误（如无法解析域名、连接超时）而失败，
+            #         整个脚本也不会停止，而是继续执行。
+            http_code=$(curl -s -o /dev/null -w "%{http_code}" -m 10 "$url" || true)
             
-            if [ "$http_code" -eq 200 ]; then
+            # 如果 http_code 为空字符串，说明 curl 失败了，我们跳过这个链接
+            if [[ "$http_code" -eq 200 ]]; then
               echo "✅ Valid: $name - $url"
               echo "$name,$url" >> "$temp_file"
             else
