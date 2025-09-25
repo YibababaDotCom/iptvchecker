@@ -15,6 +15,8 @@ on:
 jobs:
   check-sources:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # 👈 ADD THIS LINE
 
     steps:
       - name: Checkout repository
@@ -54,8 +56,6 @@ jobs:
           
           sort "$temp_file" -o "$output_file"
           
-          # 检查文件是否需要提交
-          # 使用 `git status --porcelain` 来检查文件是否有未提交的更改
           if [[ -z "$(git status --porcelain "$output_file")" ]]; then
             echo "No changes in output.txt, skipping commit."
             echo "has_changes=false" >> $GITHUB_OUTPUT
