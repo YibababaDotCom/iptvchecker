@@ -16,7 +16,7 @@ jobs:
   check-sources:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # 👈 ADD THIS LINE
+      contents: write
 
     steps:
       - name: Checkout repository
@@ -54,7 +54,8 @@ jobs:
           
           echo "Sorting and saving valid links to output.txt..."
           
-          sort "$temp_file" -o "$output_file"
+          # 使用 -f 选项进行不区分大小写的排序
+          sort -f "$temp_file" -o "$output_file"
           
           if [[ -z "$(git status --porcelain "$output_file")" ]]; then
             echo "No changes in output.txt, skipping commit."
