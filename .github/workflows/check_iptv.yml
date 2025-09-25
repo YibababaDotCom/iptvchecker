@@ -28,7 +28,6 @@ jobs:
           
           echo "Starting to check IPTV links..."
           
-          # 确保临时文件是空的
           echo -n "" > "$temp_file"
           
           while IFS=',' read -r name url; do
@@ -53,10 +52,11 @@ jobs:
           
           echo "Sorting and saving valid links to output.txt..."
           
-          # 使用 sort 命令将有效链接进行排序，无论 temp_file 是否为空，都会生成 output.txt
           sort "$temp_file" -o "$output_file"
           
-          if git diff --exit-code "$output_file"; then
+          # 检查文件是否需要提交
+          # 使用 `git status --porcelain` 来检查文件是否有未提交的更改
+          if [[ -z "$(git status --porcelain "$output_file")" ]]; then
             echo "No changes in output.txt, skipping commit."
             echo "has_changes=false" >> $GITHUB_OUTPUT
           else
