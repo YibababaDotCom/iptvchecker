@@ -1,0 +1,26 @@
+GameshowNetwork,https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
+France 24 English,https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8
+BBC News North America,https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+Sony Movies,https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
+One America News Network,https://a-cdn.klowdtv.com/live1/oan_720p/playlist.m3u8
+Law&Crime,https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8
+Fun Roads,https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8
+Fox Weather,https://247wlive.foxweather.com/stream/index.m3u8
+Dare To Dream Network,https://3abn.bozztv.com/3abn2/d2d_live/smil:d2d_live.smil/playlist.m3u8
+BEK Sports West,https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+Classic Arts Showcase,https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+SIC Internacional,https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+Record Americas,https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+CBN Family,https://bcovlive-a.akamaihd.net/r602a47f47fee47bb83239eb1b1e1ac83/us-east-1/734546207001/playlist.m3u8
+NHK World-Japan,https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
+NBCLX_Home,https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
+Scientology Network,https://stream6.scientology.org/master.m3u8
+PBS Kids Eastern/Central,https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
+i24NEWS English,https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8
+Majid,https://vo-live-media.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
+MBC 3,https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
+MBC Bollywood,https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
+Dubai One,https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
+Bollywood,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+Bollywood Classic,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+CGTN Spanish,https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
