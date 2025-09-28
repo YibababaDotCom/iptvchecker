@@ -1,6 +1,6 @@
 # .github/workflows/english.yml
 
-name: Check IPTV Sources
+name: Check English IPTV Sources
 
 on:
   push:
