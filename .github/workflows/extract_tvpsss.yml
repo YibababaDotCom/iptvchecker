@@ -1,0 +1,67 @@
+name: Extract TVPASS Links
+
+on:
+  workflow_dispatch: # 允许手动触发此工作流
+
+jobs:
+  process_playlist:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      # 检出代码，以便后续步骤可以将结果文件保存到仓库中
+      uses: actions/checkout@v4
+
+    - name: Download and Process M3U Playlist
+      id: process
+      run: |
+        PLAYLIST_URL="https://tvpass.org/playlist/m3u"
+        OUTPUT_FILE="tvpass.m3u"
+
+        echo "正在下载播放列表文件..."
+        # 使用 curl 下载原始 M3U 文件
+        curl -s -o original_playlist.m3u "$PLAYLIST_URL"
+        
+        # 检查下载是否成功
+        if [ ! -f original_playlist.m3u ] || [ ! -s original_playlist.m3u ]; then
+          echo "::error::下载播放列表失败或文件为空。"
+          exit 1
+        fi
+        
+        echo "正在处理 M3U 文件并生成新的 ${OUTPUT_FILE}..."
+        
+        # M3U 文件格式通常是：
+        # #EXTINF:...[频道信息]
+        # [m3u8 链接]
+        
+        # 使用 awk 脚本处理文件：
+        # 1. 打印原始文件的头部（例如 #EXTM3U）
+        # 2. 查找包含 #EXTINF 的行（即频道信息行）
+        # 3. 打印频道信息行
+        # 4. 打印频道信息行后紧接着的下一行（即 m3u8 链接）
+        
+        awk '
+        /^#EXTM3U/ {
+          print $0; # 打印头部
+        }
+        /^#EXTINF/ {
+          current_info = $0; # 存储频道信息行
+        }
+        # 如果当前行不是 #EXTINF 并且不为空，则认为是 M3U8 链接
+        !/^#EXTINF/ && $0!="" {
+          # 打印存储的频道信息行，然后打印当前的 M3U8 链接
+          print current_info;
+          print $0;
+        }' original_playlist.m3u > "$OUTPUT_FILE"
+        
+        echo "处理完成。已将结果保存到 ${OUTPUT_FILE} 文件中。"
+        
+        # 可选：打印文件大小以供确认
+        echo "生成的文件大小：$(du -h ${OUTPUT_FILE} | awk '{print $1}')"
+
+    - name: Commit and push new M3U file
+      # 将生成的新文件提交回仓库
+      uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        commit_message: "🤖 chore: Update tvpass.m3u playlist"
+        file_pattern: 'tvpass.m3u'
