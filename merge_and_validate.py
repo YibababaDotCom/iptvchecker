@@ -5,7 +5,8 @@ from typing import List, Tuple
 # 定义输入链接和输出文件
 INPUT_URLS = [
     "https://raw.githubusercontent.com/hxfkofoutlook/iptv/refs/heads/main/mytv_juli.m3u",
-    "https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt"
+    "https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+    "https://github.com/Drewski2423/DrewLive/blob/main/TVPass.m3u"
 ]
 OUTPUT_FILE = "emerged_output.m3u"
 # 验证链接时的超时设置 (秒)
