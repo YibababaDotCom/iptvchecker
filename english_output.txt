@@ -45,7 +45,6 @@ Bloomberg_TV,https://bloomberg-bloomberg-3-br.samsung.wurl.tv/manifest/playlist.
 Bloomberg_TV,https://www.bloomberg.com/media-manifest/streams/us.m3u8
 Bollywood,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 BollywoodClassic,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
-BoxingTV,https://1180885077.rsc.cdn77.org/HLS/BOXINGTV.m3u8
 Bravo,https://streamer1.nexgen.bz/BRAVO/index.m3u8
 CBCNews,https://d36tuf8zz9b2bm.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hfw6opvomwxih/82023db6-4ade-4add-be40-13d271a74f89/3.m3u8
 CBNFamily,https://bcovlive-a.akamaihd.net/r602a47f47fee47bb83239eb1b1e1ac83/us-east-1/734546207001/playlist.m3u8
@@ -68,6 +67,7 @@ CNASingapore,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66e
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
 CNNHLN,https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
 ComedyCentral,https://streamer1.nexgen.bz/COMEDY_CENTRAL/index.m3u8
+Cooking,https://streamer1.nexgen.bz/COOKING/index.m3u8
 Crave,https://streamer1.nexgen.bz/CRAVE/index.m3u8
 DareToDreamNetwork,https://3abn.bozztv.com/3abn2/d2d_live/smil:d2d_live.smil/playlist.m3u8
 DAZN_Combat,https://rakutenaa-dazn-combat-rakuten-kcybm.amagi.tv/ts-eu-w1-n2/playlist/rakutenAA-dazn-combat-rakuten/cb573a176570618784cc3e78d1f44582967b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ae704cc59e0a957f39e8fc8b307b24455a9c5a43e6a64ed6abb64244db6abfb102488b2f57f3d7459c8249edd3d4469d17d727ec159cc4f096da1986878c65fc01b5310a597b7ecad328a13c3cdca2f2e892011352242b66a4cea6f047288343036fecfedfba768d6ba4eb0ba010fa3f9dfa35e91e8579be01e7c043a5bfb2dc433b4bcc02ad9745d28e8498fe2d36b126d3abe5d1310bf15996e525bb0fe8035154a0f8c51a97da1980b72d8cb5237a52a5c01ccbcfe4d1a6d8e83b4950516c7a011e623777d1771df610a8cd9bb1be32d8ef1e244e4447acd57bc191e6673f7044bc273fbe0e36b6c1828fd30f749f2e4b1aa057d0550163db272c52d16da8ca723cd2663d8c3b6baf03759814a8f16cd4b7cbe9030cb0dcec4beb20bae65d9ca554e9251771369ede601f494576d5ae41083372cc0ca4f0c2f3780405a3a69ea88e0376577747123f8ae4e66292c1957a4a5892056645701758c75780278f4e194e7ebb6bb9c63e7d8b022e3af5e76e0d280bb8fcf1d0d7989a3efa15bae2f43a3d344a6cbb27774f43dab59f56ee374d6a0033a50b6346fd4a1a75e39bcdea8e932ca9b861b933761b73cf9346185fb212c69e13310ecf04871db538d56f0ff9410da7a01868/196/426x240_448800/index.m3u8
@@ -91,6 +91,7 @@ Fashion_TV,https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_m
 FIFA+,https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
 FIFA+,https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
 FNX,https://castus-vod-dev.s3.amazonaws.com/vod_clients/kvcr/live/ch1/video.m3u8
+Food,https://streamer1.nexgen.bz/FOOD/index.m3u8
 FoxWeather,https://247wlive.foxweather.com/stream/index.m3u8
 FOX_6,https://livetv-fa.tubi.video/witi/index.m3u8
 FOX_LIVE_NOW,https://livetv-fa.tubi.video/fox-live-now/index.m3u8
@@ -113,6 +114,7 @@ GoTraveller,https://amg09501-amg09501c1-klowdtv-us-2398.playouts.now.amagi.tv/pl
 Go_USA,https://brandusa-gousa-1-in.samsung.wurl.tv/playlist.m3u8
 GREAT!_movies,https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/cb7e3e187b736f8ac8c06c66d0f24aa3db0668845f38dd3f39ac56c17fc94a59d6b6f291e94ecd2521c055873d563c4e5879cb09c61b58998a25ef12240273649b98ac7bd2897550ecde0b213afb7c1a48ee7f5590790645dceb31019172e02a525dbb5f2e1e19a58924d16a4299d951de6f5edefe863e206d2907dd0200b0bf5fa0f9ff5d5bd872a1a17f19c37e07be9d47cad302b886c42eca149977f2128392ee8bcd1090929931aa52ba355b006f2e9d8228de980cb08ad76861cf2465171f51e5f596a716698345126ec795b3d7e4548eacf347b45375d635964690358e2b991da6f54bb3dfc3b5206f18d409dffc45da888e85e9213bfd47f6a7fbd4707de3965e18158c05dc53a8fd6b598b94a6e36c0e85a0404f7d25988afe649698a08aecb1c269942cc9c6f39707e52f09192f8947ab9661da668836f88e5b16554340a28d4684a8ed1e613201d6db1ee31a15ef8fd0c3c7586f83203a4af86cdc6c006ee73d7833b07eaed46f3ac96e21ad0110d714758c4bf7bd6cd2a2d8ee0972f5fdcf50f062eafa5b81a04cf9236c1752f3c12d59445e749fbb355a7e2a9505c1d7cdae265a56a2a783ae8e034a72537d650585e6e86788ce91796f71ef676631245e47ec4bbc00f2094a1221da11d5b87b1da80f223fe9b4305b4e16f8edb586829687048276ddcbf22e3c793e47b8200e3261c3bcee08ad6f531f9a3c08e5ede2db2d26046f85177e273286b26901de5496/107/848x480_1686360/index.m3u8
 HBO2,https://streamer1.nexgen.bz/HBO2/index.m3u8
+HGTV,https://streamer1.nexgen.bz/HGTV/index.m3u8
 History,https://streamer1.nexgen.bz/HISTORY/index.m3u8
 HitListMusic,https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
 Horse&Country,https://amg00810-hctvltd-hncfree-localnow-t4eey.amagi.tv/playlist.m3u8
@@ -203,8 +205,6 @@ Stories_by_AMC,https://amc-amcpresents-1-us.xumo.wurl.tv/2000.m3u8
 Strongman_Champions_League,https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/1200.m3u8
 Surfer,https://amg13231-actve-amg13231c4-samsung-nz-3093.playouts.now.amagi.tv/playlist/amg13231-actvefast-surfer-samsungnz/playlist.m3u8
 Surfing_Plus_Channel,https://dr4jwhk0sty71.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-SurfingPlus/444.m3u8
-Swerve_Combat,https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
-Swerve_Sports,https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist_1024x576.m3u8
 SYFY,https://streamer1.nexgen.bz/SYFY/index.m3u8
 TASTEMADE,https://tastemade-xumo.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16xumo/CDN/master.m3u8
 tbs,https://streamer1.nexgen.bz/TBS/index.m3u8
@@ -215,7 +215,6 @@ tcm,https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO
 TD_Ameritrade,https://tdameritrade-distro.amagi.tv/playlist.m3u8
 TennisChannel,https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 TennisChannel,https://tennischanneldeu-rakuten.amagi.tv/playlist.m3u8
-The_AFV_Family_Channel,https://futuretoday-afv-family-2-ie.samsung.wurl.tv/playlist.m3u8
 The_Country_Network,https://amg00600-amg00600c1-thecountrynetwork-us-5497.playouts.now.amagi.tv/playlist.m3u8
 the_nest,https://fast-channels.sinclairstoryline.com/THENEST/index_1.m3u8
 The_Pet_Collective,https://the-pet-collective-international-nl.samsung.wurl.tv/playlist.m3u8
