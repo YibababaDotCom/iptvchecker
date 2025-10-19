@@ -18,6 +18,7 @@ TVBPLUS,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=j2_twn
 TVB亚洲武侠,http://v2h.veryfast.filegear-sg.me/live/yzwx/stream.m3u8
 TVB娱乐新闻台,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbentertainment
 TVB娱乐新闻台,http://v2h.veryfast.filegear-sg.me/live/ylxw/stream.m3u8
+TVB星河,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Xinhe
 TVB星河,http://v2h.veryfast.filegear-sg.me/live/tvbxh/stream.m3u8
 ViuTV,http://cdn.veryfast.filegear-sg.me/live/viu/stream.m3u8
 ViuTV,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=viu1_twn
