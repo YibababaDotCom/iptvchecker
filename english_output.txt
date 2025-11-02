@@ -35,6 +35,7 @@ BBCEarth,https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudi
 BBCKids,https://d26xbpvvy0tj0m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2ym2cgz6gmgem/playlist.m3u8
 BBCNews,https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 BBCNewsNorthAmerica,https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+BBCThreeUK,https://streamer.nexyl.uk/39290a19-b8dd-43ea-b8dc-081c37790f24.m3u8
 BBC_Impossible,https://bbc-impossible-1-us.xumo.wurl.tv/1200.m3u8
 BBC_NEWS,https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 BBC_NEWS,https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
@@ -45,7 +46,6 @@ Bloomberg_TV,https://www.bloomberg.com/media-manifest/streams/us.m3u8
 Bollywood,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 BollywoodClassic,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 Bravo,https://streamer1.nexgen.bz/BRAVO/index.m3u8
-CBCNews,https://d36tuf8zz9b2bm.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hfw6opvomwxih/82023db6-4ade-4add-be40-13d271a74f89/3.m3u8
 CBSNews,https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 CCTV+1,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 CCTV+2,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
@@ -108,7 +108,6 @@ GameshowNetwork,https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
 Global_News,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 Globetrotter,https://amg01076-amg01076c20-mytvsuper-apac-7992.playouts.now.amagi.tv/playlist/amg01076-lightning-globetrotter-mytvsuperapac/playlist.m3u8
 Golf_Nation,https://now.golfnation.com/gnlive_1280x720.m3u8
-Golf_Pass,https://d2b163uuby1beo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-53so6q0qxsm9w/master.m3u8
 GoTraveller,https://amg09501-amg09501c1-klowdtv-us-2398.playouts.now.amagi.tv/playlist/amg09501-quester-gotraveler-klowdtvus/playlist.m3u8
 Go_USA,https://brandusa-gousa-1-in.samsung.wurl.tv/playlist.m3u8
 GREAT!_movies,https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/cb7e3e187b736f8ac8c06c66d0f24aa3db0668845f38dd3f39ac56c17fc94a59d6b6f291e94ecd2521c055873d563c4e5879cb09c61b58998a25ef12240273649b98ac7bd2897550ecde0b213afb7c1a48ee7f5590790645dceb31019172e02a525dbb5f2e1e19a58924d16a4299d951de6f5edefe863e206d2907dd0200b0bf5fa0f9ff5d5bd872a1a17f19c37e07be9d47cad302b886c42eca149977f2128392ee8bcd1090929931aa52ba355b006f2e9d8228de980cb08ad76861cf2465171f51e5f596a716698345126ec795b3d7e4548eacf347b45375d635964690358e2b991da6f54bb3dfc3b5206f18d409dffc45da888e85e9213bfd47f6a7fbd4707de3965e18158c05dc53a8fd6b598b94a6e36c0e85a0404f7d25988afe649698a08aecb1c269942cc9c6f39707e52f09192f8947ab9661da668836f88e5b16554340a28d4684a8ed1e613201d6db1ee31a15ef8fd0c3c7586f83203a4af86cdc6c006ee73d7833b07eaed46f3ac96e21ad0110d714758c4bf7bd6cd2a2d8ee0972f5fdcf50f062eafa5b81a04cf9236c1752f3c12d59445e749fbb355a7e2a9505c1d7cdae265a56a2a783ae8e034a72537d650585e6e86788ce91796f71ef676631245e47ec4bbc00f2094a1221da11d5b87b1da80f223fe9b4305b4e16f8edb586829687048276ddcbf22e3c793e47b8200e3261c3bcee08ad6f531f9a3c08e5ede2db2d26046f85177e273286b26901de5496/107/848x480_1686360/index.m3u8
