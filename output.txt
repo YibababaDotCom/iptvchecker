@@ -9,7 +9,6 @@ HOYTV,http://cdn.veryfast.filegear-sg.me/live/hoy/stream.m3u8
 HOYTV,http://cdn6.veryfast.filegear-sg.me/live/hoy/stream.m3u8
 NOW新闻台,http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
 RTHK31,http://cdn.veryfast.filegear-sg.me/live/rthk31/stream.m3u8
-RTHK31,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=rhk31_twn
 RTHK32,http://cdn.veryfast.filegear-sg.me/live/rthk32/stream.m3u8
 RTHK32,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=rhk32_twn
 TVB1,http://cdn6.veryfast.filegear-sg.me/live/tvb1/stream.m3u8
