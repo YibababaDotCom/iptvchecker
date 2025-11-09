@@ -141,7 +141,6 @@ MoviesAction,https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a
 MOVIESPHERE,https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 MoviesThriller,https://shls-live-ak.akamaized.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index_1.m3u8
 MSGSportszone,https://d2a31kzot4f8t3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8c6otsdsok8vf/v1/amc_msgsportszone_1/samsungheadend_us/latest/main/hls/playlist.m3u8
-MTV,https://streamer1.nexgen.bz/MTV/index.m3u8
 Nature_Time,https://amg00090-amgnaturetimeemea-rakuten.amagi.tv/playlist.m3u8
 Nautical_Channel,https://a-cdn.klowdtv.com/live2/nautical_720p/chunks.m3u8
 NBA_TV,https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8
@@ -180,7 +179,6 @@ Pet_Club_TV,https://amg01076-amg01076c10-mytvsuper-apac-7919.playouts.now.amagi.
 Poker_Night_in_America,https://d2njbreu8qyfxo.cloudfront.net/scheduler/scheduleMaster/216/variant/22099595.m3u8
 Pulse_Documentaries,https://amg01076-amg01076c8-mytvsuper-apac-7918.playouts.now.amagi.tv/playlist/amg01076-lightning-pulse-mytvsuperapac/playlist.m3u8
 Pursuit,https://d2qa45tniogkj6.cloudfront.net/out/v1/30f129d3a8a8482b9efe5092cf46e601/index.m3u8
-Qmusic,https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL_360p.m3u8
 RacingAmerica,https://livetv-fa.tubi.video/racing-america/playlistR1080p.m3u8
 RaiItaly,https://wzstreaming.rai.it/TVlive/smil:liveStream.smil/chunklist_b978000_slita.m3u8
 RaiNews24Italy,https://rainews2-live.akamaized.net/hls/live/598327/rainews2/rainews2/rainews_1800/chunklist.m3u8
@@ -207,7 +205,6 @@ SonyMovies,https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
 SportsGrid,https://sportsgrid-tribal.amagi.tv/hls/amagi_hls_data_sportstri-sportsgrid-sportstribal/CDN/playlist.m3u8
 Stories_by_AMC,https://amc-amcpresents-1-us.xumo.wurl.tv/2000.m3u8
 Strongman_Champions_League,https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/1200.m3u8
-Surfer,https://amg13231-actve-amg13231c4-samsung-nz-3093.playouts.now.amagi.tv/playlist/amg13231-actvefast-surfer-samsungnz/playlist.m3u8
 Surfing_Plus_Channel,https://dr4jwhk0sty71.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-SurfingPlus/444.m3u8
 SYFY,https://streamer1.nexgen.bz/SYFY/index.m3u8
 TASTEMADE,https://rakutenaa-tm-intl-aus-rakuten-eu-n1gtg.amagi.tv/playlist/rakutenAA-tm-intl-aus-rakuten-eu/playlist.m3u8
@@ -240,7 +237,6 @@ TVSClassicMovies,https://rpn.bozztv.com/gusa/gusa-tvsclassicmovies/tracks-v1a1/m
 TVSWesternMovies,https://rpn.bozztv.com/gusa/gusa-tvswesternmovies/tracks-v1a1/mono.m3u8
 USA,https://streamer1.nexgen.bz/USA/index.m3u8
 VH1,https://streamer1.nexgen.bz/VH1/index.m3u8
-WASABI_Cartoon,https://amg01796-amg01796c3-rakuten-uk-2555.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-wasabii-rakutenuk/playlist.m3u8
 WeatherNation,https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8
 WeatherSpy,https://d12gab6t5iutxf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5f9kx6t1zhw2i/playlist.m3u8
 WildEarth,https://wildearth-plex.amagi.tv/master.m3u8
