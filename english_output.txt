@@ -25,7 +25,6 @@ AmericanNinjaWarrior,https://xumo-drct-ch812-n4996.fast.nbcuni.com/live/master.m
 AmericanPickers,https://livetv-fa.tubi.video/american-pickers/playlist.m3u8
 AngerManagementChennel,https://livetv-fa.tubi.video/anger-management2/playlist.m3u8
 Animation+,https://d25xml1ag3v99o.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-td10dsmk8ovae/playlist.m3u8
-ANIMAXCartoon,https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
 ariringKorea,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 astroAWANI,https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 AtHomewithFamilyHandyman,https://linear-458.frequency.stream/dist/xumo/458/hls/master/playlist.m3u8
@@ -85,7 +84,6 @@ DW_News,https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.
 EBS_Kids_Korea,https://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
 edu_TV,https://cdn3.skygo.mn/live/disk1/Education/HLS-FTA/Education.m3u8
 European_Parliament_TV,https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8
-Fashion_TV,https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 FIFA+,https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
 FIFA+,https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
 FNX,https://castus-vod-dev.s3.amazonaws.com/vod_clients/kvcr/live/ch1/video.m3u8
@@ -141,6 +139,7 @@ MoviesAction,https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a
 MOVIESPHERE,https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 MoviesThriller,https://shls-live-ak.akamaized.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index_1.m3u8
 MSGSportszone,https://d2a31kzot4f8t3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8c6otsdsok8vf/v1/amc_msgsportszone_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+MTV,https://streamer1.nexgen.bz/MTV/index.m3u8
 Nature_Time,https://amg00090-amgnaturetimeemea-rakuten.amagi.tv/playlist.m3u8
 Nautical_Channel,https://a-cdn.klowdtv.com/live2/nautical_720p/chunks.m3u8
 NBA_TV,https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8
