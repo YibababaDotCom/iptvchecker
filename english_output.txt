@@ -33,6 +33,7 @@ BBCEarth,https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudi
 BBCKids,https://d26xbpvvy0tj0m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2ym2cgz6gmgem/playlist.m3u8
 BBCNews,https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 BBCNewsNorthAmerica,https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+BBC_Impossible,https://bbc-impossible-1-us.xumo.wurl.tv/1200.m3u8
 BBC_NEWS,https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 BBC_NEWS,https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 BBC_NEWS,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
@@ -121,7 +122,6 @@ LacrosseTV,https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
 Law&Crime,https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8
 Law&Crime,https://cdn.lawandcrime.net/rewind/playlist_scte.m3u8
 Lifetime,https://streamer1.nexgen.bz/LIFETIME/index.m3u8
-Majid,https://vo-live-media.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
 MBC3,https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
 MBCBollywood,https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 MBC_Korea,https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
