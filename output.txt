@@ -47,7 +47,6 @@ ViuTVSix,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=viusix_twn
 深圳财经生活,http://cdn3.veryfast.filegear-sg.me/live/szcjsh/stream.m3u8
 爱奇艺,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Qiyi
 第一财经,http://cdn3.veryfast.filegear-sg.me/live/dycj/stream.m3u8
-美亚电影台,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=meiyamovie_twn
 翡翠剧集台,http://cdn6.veryfast.filegear-sg.me/live/tvbd/stream.m3u8
 翡翠台,http://cdn6.veryfast.filegear-sg.me/live/fct/stream.m3u8
 翡翠台,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=jade_twn
