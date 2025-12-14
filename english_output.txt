@@ -81,7 +81,6 @@ Duck_TV_Cartoon,https://dxvpcwoxxgnqg.cloudfront.net/DuckTVHDSAMS/DuckTVHDSAMS_5
 DW_News,https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
 EBS_Kids_Korea,https://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
 edu_TV,https://cdn3.skygo.mn/live/disk1/Education/HLS-FTA/Education.m3u8
-European_Parliament_TV,https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8
 FIFA+,https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
 FIFA+,https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
 FNX,https://castus-vod-dev.s3.amazonaws.com/vod_clients/kvcr/live/ch1/video.m3u8
@@ -89,7 +88,6 @@ Food,https://streamer1.nexgen.bz/FOOD/index.m3u8
 FoxWeather,https://247wlive.foxweather.com/stream/index.m3u8
 FOX_6,https://livetv-fa.tubi.video/witi/index.m3u8
 FOX_LIVE_NOW,https://livetv-fa.tubi.video/fox-live-now/index.m3u8
-FOX_News,https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 FOX_SOUL,https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
 FOX_Weather,https://247wlive.foxweather.com/stream/index.m3u8
 FOX_Weather,https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
