@@ -41,20 +41,6 @@ http://cdn6.veryfast.filegear-sg.me/live/ch5/stream.m3u8
 http://cdn6.veryfast.filegear-sg.me/live/ch8/stream.m3u8
 #EXTINF:-1 tvg-name="CHU" tvg-logo="https://gitee.com/hxfkof/itv/raw/master/logo/ChannelU.png" group-title="MyTV",CHU
 http://cdn6.veryfast.filegear-sg.me/live/chu/stream.m3u8
-#EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华电影.png" group-title="MyTV",龙华电影
-http://cdn8.veryfast.filegear-sg.me/live/lhdy/stream.m3u8
-#EXTINF:-1 tvg-name="龙华经典" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华经典.png" group-title="MyTV",龙华经典
-http://cdn8.veryfast.filegear-sg.me/live/lhjd/stream.m3u8
-#EXTINF:-1 tvg-name="龙华卡通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华卡通.png" group-title="MyTV",龙华卡通
-http://cdn8.veryfast.filegear-sg.me/live/lhkt/stream.m3u8
-#EXTINF:-1 tvg-name="龙华偶像" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华偶像.png" group-title="MyTV",龙华偶像
-http://cdn8.veryfast.filegear-sg.me/live/lhox/stream.m3u8
-#EXTINF:-1 tvg-name="龙华日韩" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华日韩.png" group-title="MyTV",龙华日韩
-http://cdn8.veryfast.filegear-sg.me/live/lhrh/stream.m3u8
-#EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华戏剧.png" group-title="MyTV",龙华戏剧
-http://cdn8.veryfast.filegear-sg.me/live/lhxj/stream.m3u8
-#EXTINF:-1 tvg-name="龙华洋片" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华洋片.png" group-title="MyTV",龙华洋片
-http://cdn8.veryfast.filegear-sg.me/live/lhyp/stream.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="MyTV",翡翠台
 http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=jade_twn
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="MyTV",翡翠台
@@ -67,8 +53,6 @@ http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=pearl_twn
 http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=inews_twn
 #EXTINF:-1 tvg-name="TVB PLUS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB+.png" group-title="MyTV",TVB PLUS
 http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=j2_twn
-#EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB星河.png" group-title="MyTV",TVB星河
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Xinhe
 #EXTINF:-1 tvg-name="千禧经典台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/千禧经典.png" group-title="MyTV",千禧经典台
 http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbclassic
 #EXTINF:-1 tvg-name="TVB娱乐新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/娱乐新闻.png" group-title="MyTV",TVB娱乐新闻台
@@ -115,15 +99,3 @@ http://v2h.veryfast.filegear-sg.me/live/ylxw/stream.m3u8
 http://v2h.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
 #EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB星河.png" group-title="MyTV",TVB星河
 http://v2h.veryfast.filegear-sg.me/live/tvbxh/stream.m3u8
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="MyTV",翡翠台测试
-http://mytv.veryfast.filegear-sg.me/hls/fct/playlist.m3u8
-#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB明珠.png" group-title="MyTV",明珠台测试
-http://o12.veryfast.filegear-sg.me/hls/mzt/playlist.m3u8
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gitee.com/hxfkof/itv/raw/master/logo/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%864K.png" group-title="MyTV",深圳卫视4K
-http://cdn3.veryfast.filegear-sg.me/live/szws4k/stream.m3u8
-#EXTINF:-1 tvg-name="深圳财经生活" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳财经生活.png" group-title="MyTV",深圳财经生活
-http://cdn3.veryfast.filegear-sg.me/live/szcjsh/stream.m3u8
-#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/第一财经.png" group-title="MyTV",第一财经
-http://cdn3.veryfast.filegear-sg.me/live/dycj/stream.m3u8
-#EXTINF:-1 tvg-name="上海五星体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海五星体育.png" group-title="MyTV",五星体育
-http://cdn3.veryfast.filegear-sg.me/live/wxty/stream.m3u8
