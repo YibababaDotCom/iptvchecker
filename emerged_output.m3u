@@ -42,8 +42,6 @@ http://cdn6.veryfast.filegear-sg.me/live/ch8/stream.m3u8
 #EXTINF:-1 tvg-name="CHU" tvg-logo="https://gitee.com/hxfkof/itv/raw/master/logo/ChannelU.png" group-title="MyTV",CHU
 http://cdn6.veryfast.filegear-sg.me/live/chu/stream.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="MyTV",翡翠台
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=jade_twn
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="MyTV",翡翠台
 http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=jade_xue
 #EXTINF:-1 tvg-name="华丽翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="MyTV",华丽翡翠台
 http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbjade
