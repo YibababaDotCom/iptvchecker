@@ -1,4 +1,3 @@
-AstroQJ,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Quanjia
 CH5,http://cdn6.veryfast.filegear-sg.me/live/ch5/stream.m3u8
 CH8,http://cdn6.veryfast.filegear-sg.me/live/ch8/stream.m3u8
 CHU,http://cdn6.veryfast.filegear-sg.me/live/chu/stream.m3u8
