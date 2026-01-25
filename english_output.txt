@@ -64,13 +64,6 @@ Discovery_Turbo,https://streamer1.nexgen.bz/DISCOVERY_TURBO/index.m3u8
 Discover_Film,https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
 DocsVille,https://amg01076-amg01076c9-mytvsuper-apac-7917.playouts.now.amagi.tv/playlist/amg01076-lightning-docsville-mytvsuperapac/playlist.m3u8
 DramaHotpot,https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_4/dash.mpd
-DubaiOne,https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
-DubaiOne,https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
-DUBAI_RACING,https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist.m3u8
-DUBAI_SPORTS,https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
-DUBAI_SPORTS2,https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
-DUBAI_SPORTS3,https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b300000.m3u8
-DUBAI_TV,https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist.m3u8
 Duck_TV_Cartoon,https://dxvpcwoxxgnqg.cloudfront.net/DuckTVHDSAMS/DuckTVHDSAMS_540p_AAC.stream/chunks.m3u8
 DW_News,https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
 EBS_Kids_Korea,https://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
@@ -94,8 +87,8 @@ GameshowNetwork,https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
 Global_News,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 Globetrotter,https://amg01076-amg01076c20-mytvsuper-apac-7992.playouts.now.amagi.tv/playlist/amg01076-lightning-globetrotter-mytvsuperapac/playlist.m3u8
 Golf_Nation,https://now.golfnation.com/gnlive_1280x720.m3u8
+GoTraveller,https://amg09501-amg09501c1-klowdtv-us-2398.playouts.now.amagi.tv/playlist/amg09501-quester-gotraveler-klowdtvus/playlist.m3u8
 Go_USA,https://brandusa-gousa-1-in.samsung.wurl.tv/playlist.m3u8
-GREAT!_movies,https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/cb7e3e187b736f8ac8c06c66d0f24aa3db0668845f38dd3f39ac56c17fc94a59d6b6f291e94ecd2521c055873d563c4e5879cb09c61b58998a25ef12240273649b98ac7bd2897550ecde0b213afb7c1a48ee7f5590790645dceb31019172e02a525dbb5f2e1e19a58924d16a4299d951de6f5edefe863e206d2907dd0200b0bf5fa0f9ff5d5bd872a1a17f19c37e07be9d47cad302b886c42eca149977f2128392ee8bcd1090929931aa52ba355b006f2e9d8228de980cb08ad76861cf2465171f51e5f596a716698345126ec795b3d7e4548eacf347b45375d635964690358e2b991da6f54bb3dfc3b5206f18d409dffc45da888e85e9213bfd47f6a7fbd4707de3965e18158c05dc53a8fd6b598b94a6e36c0e85a0404f7d25988afe649698a08aecb1c269942cc9c6f39707e52f09192f8947ab9661da668836f88e5b16554340a28d4684a8ed1e613201d6db1ee31a15ef8fd0c3c7586f83203a4af86cdc6c006ee73d7833b07eaed46f3ac96e21ad0110d714758c4bf7bd6cd2a2d8ee0972f5fdcf50f062eafa5b81a04cf9236c1752f3c12d59445e749fbb355a7e2a9505c1d7cdae265a56a2a783ae8e034a72537d650585e6e86788ce91796f71ef676631245e47ec4bbc00f2094a1221da11d5b87b1da80f223fe9b4305b4e16f8edb586829687048276ddcbf22e3c793e47b8200e3261c3bcee08ad6f531f9a3c08e5ede2db2d26046f85177e273286b26901de5496/107/848x480_1686360/index.m3u8
 HBO2,https://streamer1.nexgen.bz/HBO2/index.m3u8
 HGTV,https://streamer1.nexgen.bz/HGTV/index.m3u8
 History,https://streamer1.nexgen.bz/HISTORY/index.m3u8
@@ -186,6 +179,7 @@ SonyMovies,https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
 SportsGrid,https://sportsgrid-tribal.amagi.tv/hls/amagi_hls_data_sportstri-sportsgrid-sportstribal/CDN/playlist.m3u8
 Stories_by_AMC,https://amc-amcpresents-1-us.xumo.wurl.tv/2000.m3u8
 Strongman_Champions_League,https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/1200.m3u8
+Surfer,https://amg13231-actve-amg13231c4-samsung-nz-3093.playouts.now.amagi.tv/playlist/amg13231-actvefast-surfer-samsungnz/playlist.m3u8
 Surfing_Plus_Channel,https://dr4jwhk0sty71.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-SurfingPlus/444.m3u8
 SYFY,https://streamer1.nexgen.bz/SYFY/index.m3u8
 TASTEMADE,https://rakutenaa-tm-intl-aus-rakuten-eu-n1gtg.amagi.tv/playlist/rakutenAA-tm-intl-aus-rakuten-eu/playlist.m3u8
@@ -218,6 +212,7 @@ TVSClassicMovies,https://rpn.bozztv.com/gusa/gusa-tvsclassicmovies/tracks-v1a1/m
 TVSWesternMovies,https://rpn.bozztv.com/gusa/gusa-tvswesternmovies/tracks-v1a1/mono.m3u8
 USA,https://streamer1.nexgen.bz/USA/index.m3u8
 VH1,https://streamer1.nexgen.bz/VH1/index.m3u8
+WASABI_Cartoon,https://amg01796-amg01796c3-rakuten-uk-2555.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-wasabii-rakutenuk/playlist.m3u8
 WeatherNation,https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8
 WeatherSpy,https://d12gab6t5iutxf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5f9kx6t1zhw2i/playlist.m3u8
 WildEarth,https://wildearth-plex.amagi.tv/master.m3u8
