@@ -59,24 +59,34 @@ http://cdn8.veryfast.filegear-sg.me/live/lhyp/stream.m3u8
 http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=jade_twn
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="MyTV",翡翠台
 http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=jade_xue
-#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/无线新闻.png" group-title="MyTV",无线新闻台
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=inews_twn
+#EXTINF:-1 tvg-name="华丽翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="MyTV",华丽翡翠台
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbjade
+#EXTINF:-1 tvg-name="TVB PLUS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB+.png" group-title="MyTV",TVB PLUS
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=j2_twn
 #EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB星河.png" group-title="MyTV",TVB星河
 http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Xinhe
 #EXTINF:-1 tvg-name="千禧经典台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/千禧经典.png" group-title="MyTV",千禧经典台
 http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbclassic
 #EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/VIUTV.png" group-title="MyTV",ViuTV
 http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=viu1_twn
-#EXTINF:-1 tvg-name="ViuTVSix" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/VIUTVSIX.png" group-title="MyTV",ViuTVSix
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=viusix_twn
+#EXTINF:-1 tvg-name="RTHK31" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTHK31.png" group-title="MyTV",RTHK31
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=rhk31_twn
+#EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTHK32.png" group-title="MyTV",RTHK32
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=rhk32_twn
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰中文.png" group-title="MyTV",凤凰中文
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=phoenixtv_hd
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰资讯.png" group-title="MyTV",凤凰资讯
 http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=phoenixinfo_hd
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰香港.png" group-title="MyTV",凤凰香港
 http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=hkphoenix_twn
+#EXTINF:-1 tvg-name="Astro AOD" tvg-logo="https://gitee.com/hxfkof/itv/raw/master/logo/AOD.png" group-title="MyTV",Astro AOD
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Aodhd
+#EXTINF:-1 tvg-name="Astro AEC" tvg-logo="https://gitee.com/hxfkof/itv/raw/master/logo/AEC.png" group-title="MyTV",Astro AEC
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=AEC
+#EXTINF:-1 tvg-name="爱奇艺" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/爱奇艺.png" group-title="MyTV",爱奇艺
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Qiyi
 #EXTINF:-1 tvg-name="Astro QJ" tvg-logo="https://gitee.com/hxfkof/itv/raw/master/logo/%E5%85%A8%E4%BD%B3.png" group-title="MyTV",Astro QJ
 http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Quanjia
-#EXTINF:-1 tvg-name="Astro欢喜台" tvg-logo="https://gitee.com/hxfkof/itv/raw/master/logo/%E6%AC%A2%E5%96%9C%E5%8F%B0.png" group-title="MyTV",Astro欢喜台
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Huahee
 #EXTINF:-1 tvg-name="八度空间" tvg-logo="https://gitee.com/hxfkof/itv/raw/master/logo/%E5%85%AB%E5%BA%A6%E7%A9%BA%E9%96%93.png" group-title="MyTV",八度空间
 http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=TV8
 #EXTINF:-1 tvg-name="华丽翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="MyTV",华丽翡翠台
@@ -203,6 +213,8 @@ https://stream.hrbtv.net/zxpd/sd/live.m3u8
 http://stream.hrbtv.net/ylpd/sd/live.m3u8
 #EXTINF:-1 tvg-id="哈尔滨影视" tvg-name="哈尔滨影视" tvg-logo="" group-title="黑龙江地区",哈尔滨影视
 https://stream.hrbtv.net/yspd/sd/live.m3u8
+#EXTINF:-1 tvg-id="哈尔滨影视" tvg-name="哈尔滨影视" tvg-logo="" group-title="黑龙江地区",哈尔滨影视
+http://stream.hrbtv.net/yspd/sd/live.m3u8
 #EXTINF:-1 tvg-id="崇仁电视台" tvg-name="崇仁电视台" tvg-logo="" group-title="江西地区",崇仁电视台
 http://play-a2.quklive.com/live/1744277411242065.m3u8
 #EXTINF:-1 tvg-id="崇仁电视台" tvg-name="崇仁电视台" tvg-logo="" group-title="江西地区",崇仁电视台
