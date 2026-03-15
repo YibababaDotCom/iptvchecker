@@ -15,7 +15,6 @@ AMC西班牙语,https://amc-amcespanol-1-us.plex.wurl.tv/192.m3u8
 America'sVoice,https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8
 AmericanCrimes,https://xumo-xumoent-vc-113-at8kn.fast.nbcuni.com/live/master.m3u8
 AmericanNinjaWarrior,https://xumo-drct-ch812-n4996.fast.nbcuni.com/live/master.m3u8
-Animation+,https://d25xml1ag3v99o.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-td10dsmk8ovae/playlist.m3u8
 ANIMAXCartoon,https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
 ariringKorea,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 astroAWANI,https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
@@ -85,6 +84,7 @@ Law&Crime,https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8
 Law&Crime,https://cdn.lawandcrime.net/rewind/playlist_scte.m3u8
 MBC3,https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
 MBCBollywood,https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
+MBC_Korea,https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 MiamiTV,https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
 Miramax_Movie,https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8
 MLB,https://d1yqxv6gx128ca.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mmpgjr4zitcp0/playlist.m3u8
@@ -101,7 +101,6 @@ NBCComedyVault,https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u
 NBCHome,https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
 NBCLXHome,https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
 NBCLX_Home,https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
-NBCNewsNow,https://d2ujxo1akrn26l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rm6mbj1qgu3wm/master.m3u8
 NewKMovies,https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8
 NEWSMAX2,https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 NEWSMAX2,https://nmxlocalnow.akamaized.net/hls/live/2020471/Live_1/index.m3u8
@@ -129,6 +128,7 @@ Pet_Club_TV,https://amg01076-amg01076c10-mytvsuper-apac-7919.playouts.now.amagi.
 Poker_Night_in_America,https://d2njbreu8qyfxo.cloudfront.net/scheduler/scheduleMaster/216/variant/22099595.m3u8
 Pulse_Documentaries,https://amg01076-amg01076c8-mytvsuper-apac-7918.playouts.now.amagi.tv/playlist/amg01076-lightning-pulse-mytvsuperapac/playlist.m3u8
 Pursuit,https://d2qa45tniogkj6.cloudfront.net/out/v1/30f129d3a8a8482b9efe5092cf46e601/index.m3u8
+RaiItaly,https://wzstreaming.rai.it/TVlive/smil:liveStream.smil/chunklist_b978000_slita.m3u8
 RaiNews24Italy,https://rainews2-live.akamaized.net/hls/live/598327/rainews2/rainews2/rainews_1800/chunklist.m3u8
 RakutenTopMoviesUK,https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
 RakutenTV_TopFilms,https://93ed06eba1ef4cf783b66dc6ea7c4f28.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5986/master.m3u8
