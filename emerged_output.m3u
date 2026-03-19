@@ -55,14 +55,6 @@ http://cdn8.veryfast.filegear-sg.me/live/lhrh/stream.m3u8
 http://cdn8.veryfast.filegear-sg.me/live/lhxj/stream.m3u8
 #EXTINF:-1 tvg-name="龙华洋片" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华洋片.png" group-title="MyTV",龙华洋片
 http://cdn8.veryfast.filegear-sg.me/live/lhyp/stream.m3u8
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="MyTV",翡翠台
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=jade_twn
-#EXTINF:-1 tvg-name="华丽翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="MyTV",华丽翡翠台
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbjade
-#EXTINF:-1 tvg-name="TVB PLUS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB+.png" group-title="MyTV",TVB PLUS
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=j2_twn
-#EXTINF:-1 tvg-name="美亚电影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/美亚电影.png" group-title="MyTV",美亚电影台
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=meiyamovie_twn
 #EXTINF:-1 tvg-name="华丽翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="MyTV",华丽翡翠台
 http://v2h.veryfast.filegear-sg.me/live/hlfct/stream.m3u8
 #EXTINF:-1 tvg-name="亚洲武侠" tvg-logo="https://gitee.com/hxfkof/itv/raw/master/logo/%E4%BA%9E%E6%B4%B2%E6%AD%A6%E4%BF%A0.png" group-title="MyTV",TVB亚洲武侠
@@ -73,7 +65,7 @@ http://v2h.veryfast.filegear-sg.me/live/ylxw/stream.m3u8
 http://v2h.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
 #EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB星河.png" group-title="MyTV",TVB星河
 http://v2h.veryfast.filegear-sg.me/live/tvbxh/stream.m3u8
-#EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="" group-title="央视频道",CCTV1综合
+#EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="" group-title="央视频道",更新日期: 2026-3-19 06:24:01
 http://play.kankanlive.com/live/1698234869325962.m3u8
 #EXTINF:-1 tvg-id="CCTV3综艺" tvg-name="CCTV3综艺" tvg-logo="" group-title="央视频道",CCTV3综艺
 http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
@@ -199,12 +191,10 @@ http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
 http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
 #EXTINF:-1 tvg-id="龙泉电视台" tvg-name="龙泉电视台" tvg-logo="" group-title="浙江地区",龙泉电视台
 http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
-#EXTINF:-1 tvg-id="宜兴新闻综合" tvg-name="宜兴新闻综合" tvg-logo="" group-title="江苏地区",宜兴新闻综合
-http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
+#EXTINF:-1 tvg-id="镇江2" tvg-name="镇江2" tvg-logo="" group-title="江苏地区",镇江2
+http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
 #EXTINF:-1 tvg-id="哈尔滨新闻综合" tvg-name="哈尔滨新闻综合" tvg-logo="" group-title="黑龙江地区",哈尔滨新闻综合
 https://stream.hrbtv.net/xwzh/sd/live.m3u8
-#EXTINF:-1 tvg-id="哈尔滨新闻综合" tvg-name="哈尔滨新闻综合" tvg-logo="" group-title="黑龙江地区",哈尔滨新闻综合
-http://stream.hrbtv.net/xwzh/sd/live.m3u8
 #EXTINF:-1 tvg-id="哈尔滨生活" tvg-name="哈尔滨生活" tvg-logo="" group-title="黑龙江地区",哈尔滨生活
 https://stream.hrbtv.net/shpd/sd/live.m3u8
 #EXTINF:-1 tvg-id="哈尔滨生活" tvg-name="哈尔滨生活" tvg-logo="" group-title="黑龙江地区",哈尔滨生活
