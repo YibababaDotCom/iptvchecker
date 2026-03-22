@@ -60,12 +60,10 @@ FNX,https://castus-vod-dev.s3.amazonaws.com/vod_clients/kvcr/live/ch1/video.m3u8
 FoxWeather,https://247wlive.foxweather.com/stream/index.m3u8
 FOX_SOUL,https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
 FOX_Weather,https://247wlive.foxweather.com/stream/index.m3u8
-FOX_Weather,https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
 France24English,https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8
 FRANCE_24,https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
 FunRoads,https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8
 FX1,https://fxtvhls.wns.live/hls/stream.m3u8
-Game+,https://a-cdn.klowdtv.com/live2/fntsy_720p/chunks.m3u8
 GameshowNetwork,https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
 Global_News,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 Globetrotter,https://amg01076-amg01076c20-mytvsuper-apac-7992.playouts.now.amagi.tv/playlist/amg01076-lightning-globetrotter-mytvsuperapac/playlist.m3u8
@@ -101,7 +99,6 @@ NBCComedyVault,https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u
 NBCHome,https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
 NBCLXHome,https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
 NBCLX_Home,https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
-NewKMovies,https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8
 NEWSMAX2,https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 NEWSMAX2,https://nmxlocalnow.akamaized.net/hls/live/2020471/Live_1/index.m3u8
 News_World,https://amg01076-amg01076c5-mytvsuper-apac-7829.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-mytvsuperapac/playlist.m3u8
