@@ -60,6 +60,7 @@ FNX,https://castus-vod-dev.s3.amazonaws.com/vod_clients/kvcr/live/ch1/video.m3u8
 FoxWeather,https://247wlive.foxweather.com/stream/index.m3u8
 FOX_SOUL,https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
 FOX_Weather,https://247wlive.foxweather.com/stream/index.m3u8
+FOX_Weather,https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
 France24English,https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8
 FRANCE_24,https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
 FunRoads,https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8
@@ -87,6 +88,7 @@ MiamiTV,https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
 Miramax_Movie,https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8
 MLB,https://d1yqxv6gx128ca.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mmpgjr4zitcp0/playlist.m3u8
 MotorHeads,https://mediapackage-azf1-source.fullscreen.nz/index.m3u8
+MovieBox,https://cdn4.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8
 MovieMusic,https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/dee3e3af-2706-3e77-a952-91b99f6d1819/5711200/manifest.m3u8
 MoviesAction,https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index_1.m3u8
 MOVIESPHERE,https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
