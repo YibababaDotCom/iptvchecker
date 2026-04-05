@@ -58,13 +58,13 @@ FIFA+,https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/
 FIFA+,https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
 FNX,https://castus-vod-dev.s3.amazonaws.com/vod_clients/kvcr/live/ch1/video.m3u8
 FoxWeather,https://247wlive.foxweather.com/stream/index.m3u8
-FOX_SOUL,https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
 FOX_Weather,https://247wlive.foxweather.com/stream/index.m3u8
 FOX_Weather,https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
 France24English,https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8
 FRANCE_24,https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
 FunRoads,https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8
 FX1,https://fxtvhls.wns.live/hls/stream.m3u8
+Game+,https://a-cdn.klowdtv.com/live2/fntsy_720p/chunks.m3u8
 GameshowNetwork,https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
 Global_News,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 Globetrotter,https://amg01076-amg01076c20-mytvsuper-apac-7992.playouts.now.amagi.tv/playlist/amg01076-lightning-globetrotter-mytvsuperapac/playlist.m3u8
@@ -155,7 +155,6 @@ Strongman_Champions_League,https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/120
 Surfer,https://amg13231-actve-amg13231c4-samsung-nz-3093.playouts.now.amagi.tv/playlist/amg13231-actvefast-surfer-samsungnz/playlist.m3u8
 Surfing_Plus_Channel,https://dr4jwhk0sty71.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-SurfingPlus/444.m3u8
 TASTEMADE,https://rakutenaa-tm-intl-aus-rakuten-eu-n1gtg.amagi.tv/playlist/rakutenAA-tm-intl-aus-rakuten-eu/playlist.m3u8
-TASTEMADE,https://tastemade-xumo.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16xumo/CDN/master.m3u8
 tbs,https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
 TBS_Korea,https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/playlist.m3u8
 tcm,https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
@@ -191,5 +190,4 @@ WONDER_UK,https://wonder-samsung-uk.amagi.tv/playlist.m3u8
 Xplore,https://xplore-vizio.amagi.tv/playlist.m3u8
 Yahoo!_Finance,https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 Yahoo!_Finance,https://yahoo-plex.amagi.tv/playlist.m3u8
-YTN_Korea,https://d1qpa642pafi0d.cloudfront.net/ytn/350k/chunklist.m3u8
 Zoomoo,https://cdn4.skygo.mn/live/disk1/Zoomoo/HLSv3-FTA/Zoomoo.m3u8
