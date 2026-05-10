@@ -62,7 +62,6 @@ France24English,https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8
 FRANCE_24,https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
 FunRoads,https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8
 FX1,https://fxtvhls.wns.live/hls/stream.m3u8
-Game+,https://a-cdn.klowdtv.com/live2/fntsy_720p/chunks.m3u8
 GameshowNetwork,https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
 Global_News,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 Globetrotter,https://amg01076-amg01076c20-mytvsuper-apac-7992.playouts.now.amagi.tv/playlist/amg01076-lightning-globetrotter-mytvsuperapac/playlist.m3u8
@@ -88,9 +87,7 @@ MLB,https://d1yqxv6gx128ca.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73
 MotorHeads,https://mediapackage-azf1-source.fullscreen.nz/index.m3u8
 MovieBox,https://cdn4.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8
 MovieMusic,https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/dee3e3af-2706-3e77-a952-91b99f6d1819/5711200/manifest.m3u8
-MoviesAction,https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index_1.m3u8
 MOVIESPHERE,https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-MoviesThriller,https://shls-live-ak.akamaized.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index_1.m3u8
 MSGSportszone,https://d2a31kzot4f8t3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8c6otsdsok8vf/v1/amc_msgsportszone_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 Nature_Time,https://amg00090-amgnaturetimeemea-rakuten.amagi.tv/playlist.m3u8
 Nautical_Channel,https://a-cdn.klowdtv.com/live2/nautical_720p/chunks.m3u8
@@ -157,7 +154,6 @@ tbs,https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0
 TBS_Korea,https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/playlist.m3u8
 tcm,https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
 TD_Ameritrade,https://tdameritrade-distro.amagi.tv/playlist.m3u8
-TennisChannel,https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 TennisChannel,https://tennischanneldeu-rakuten.amagi.tv/playlist.m3u8
 The_Country_Network,https://amg00600-amg00600c1-thecountrynetwork-us-5497.playouts.now.amagi.tv/playlist.m3u8
 the_nest,https://fast-channels.sinclairstoryline.com/THENEST/index_1.m3u8
