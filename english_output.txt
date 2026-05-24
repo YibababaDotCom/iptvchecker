@@ -80,7 +80,6 @@ Law&Crime,https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8
 Law&Crime,https://cdn.lawandcrime.net/rewind/playlist_scte.m3u8
 MBC3,https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
 MBCBollywood,https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
-MBC_Korea,https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 MiamiTV,https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
 Miramax_Movie,https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8
 MLB,https://d1yqxv6gx128ca.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mmpgjr4zitcp0/playlist.m3u8
@@ -144,7 +143,6 @@ SkyNews,https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_108
 SkyNewsArabia,https://stream.skynewsarabia.com/hls/sna_720.m3u8
 SkyNewsAustralia,https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 SonyMovies,https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
-SportsGrid,https://sportsgrid-tribal.amagi.tv/hls/amagi_hls_data_sportstri-sportsgrid-sportstribal/CDN/playlist.m3u8
 Stories_by_AMC,https://amc-amcpresents-1-us.xumo.wurl.tv/2000.m3u8
 Strongman_Champions_League,https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/1200.m3u8
 Surfer,https://amg13231-actve-amg13231c4-samsung-nz-3093.playouts.now.amagi.tv/playlist/amg13231-actvefast-surfer-samsungnz/playlist.m3u8
