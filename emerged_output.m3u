@@ -291,6 +291,8 @@ https://play.kankanlive.com/live/1672881652415978.m3u8
 https://play.kankanlive.com/live/1658390970673988.m3u8
 #EXTINF:-1 tvg-id="天祝电视台" tvg-name="天祝电视台" tvg-logo="" group-title="甘肃地区",天祝电视台
 http://play.kankanlive.com/live/1656487214793905.m3u8
+#EXTINF:-1 tvg-id="天祝电视台" tvg-name="天祝电视台" tvg-logo="" group-title="甘肃地区",天祝电视台
+http://play.kankanlive.com/live/1656487214793905.flv
 #EXTINF:-1 tvg-id="通渭电视台" tvg-name="通渭电视台" tvg-logo="" group-title="甘肃地区",通渭电视台
 http://play.kankanlive.com/live/1661761962676984.m3u8
 #EXTINF:-1 tvg-id="秦安电视台" tvg-name="秦安电视台" tvg-logo="" group-title="甘肃地区",秦安电视台
