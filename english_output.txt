@@ -13,7 +13,6 @@ AlterHorror,https://aegis-cloudfront-1.tubi.video/acac036c-181a-413a-a102-cd294c
 Al_Jazeera半岛新闻,https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 AMC,https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
 AMC,https://amc-amcespanol-1-us.plex.wurl.tv/playlist.m3u8
-AMC_Plus,https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8
 AMC_Thrillers,https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
 AMC_Thrillers,https://amc-rushbyamc-1-us.vizio.wurl.tv/playlist.m3u8
 America'sVoice,https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8
@@ -27,8 +26,6 @@ astroAWANI,https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd87
 AtHomewithFamilyHandyman,https://linear-458.frequency.stream/dist/xumo/458/hls/master/playlist.m3u8
 AVASERIES,https://avaserieshls.wns.live/hls/stream.m3u8
 AXMEN,https://36dc2f37.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX0F4TWVuX0hMUw/playlist.m3u8
-Bahrain_International,https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8
-BBC_America,https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
 BBC_Comedy,https://bbc-comedy-1-us.plex.wurl.tv/1200.m3u8
 BBC_Earth,https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist.m3u8
 BBC_Earth,https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
@@ -71,6 +68,7 @@ Cops,https://69fc67603f914d73988ff4dc54a202c8.mediatailor.us-east-1.amazonaws.co
 create,https://create.lls.pbs.org/index.m3u8
 DareToDreamNetwork,https://3abn.bozztv.com/3abn2/d2d_live/smil:d2d_live.smil/playlist.m3u8
 DAZN_Combat,https://rakutenaa-dazn-combat-rakuten-kcybm.amagi.tv/ts-eu-w1-n2/playlist/rakutenAA-dazn-combat-rakuten/cb573a176570618784cc3e78d1f44582967b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ae704cc59e0a957f39e8fc8b307b24455a9c5a43e6a64ed6abb64244db6abfb102488b2f57f3d7459c8249edd3d4469d17d727ec159cc4f096da1986878c65fc01b5310a597b7ecad328a13c3cdca2f2e892011352242b66a4cea6f047288343036fecfedfba768d6ba4eb0ba010fa3f9dfa35e91e8579be01e7c043a5bfb2dc433b4bcc02ad9745d28e8498fe2d36b126d3abe5d1310bf15996e525bb0fe8035154a0f8c51a97da1980b72d8cb5237a52a5c01ccbcfe4d1a6d8e83b4950516c7a011e623777d1771df610a8cd9bb1be32d8ef1e244e4447acd57bc191e6673f7044bc273fbe0e36b6c1828fd30f749f2e4b1aa057d0550163db272c52d16da8ca723cd2663d8c3b6baf03759814a8f16cd4b7cbe9030cb0dcec4beb20bae65d9ca554e9251771369ede601f494576d5ae41083372cc0ca4f0c2f3780405a3a69ea88e0376577747123f8ae4e66292c1957a4a5892056645701758c75780278f4e194e7ebb6bb9c63e7d8b022e3af5e76e0d280bb8fcf1d0d7989a3efa15bae2f43a3d344a6cbb27774f43dab59f56ee374d6a0033a50b6346fd4a1a75e39bcdea8e932ca9b861b933761b73cf9346185fb212c69e13310ecf04871db538d56f0ff9410da7a01868/196/426x240_448800/index.m3u8
+DC_NETWORK,https://video.oct.dc.gov/out/u/DCN.m3u8
 Deportes_ITV_Mexico,https://thm-it-roku.otteravision.com/thm/it/it_720p_high.m3u8
 Discover_Film,https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
 DramaHotpot,https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_4/dash.mpd
@@ -125,7 +123,6 @@ JAIL,https://e85541db4ae943d9b5a09477d6b1d8ab.mediatailor.us-east-1.amazonaws.co
 JewelryTelevisionEspanol,https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/72b5a55e4c35445f9e742871aa0aefa2/index.m3u8
 Jewish_Life_TV,https://jlt-jltv-stirr.otteravision.com/jlt/jltv/jltv.m3u8
 KBSWorld,https://cdn4.skygo.mn/live/disk1/KBSWorld/HLSv3-FTA/KBSWorld.m3u8
-KBSWorld,https://liveh12.vtvprime.vn/hls/KBS/03.m3u8
 LacrosseTV,https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
 Law&Crime,https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8
 Law&Crime,https://cdn.lawandcrime.net/rewind/playlist_scte.m3u8
@@ -209,6 +206,7 @@ SkyNewsAustralia,https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau
 SonyMovies,https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
 SonyOneComedyTV,https://ec613694ee5049d3b8f30913b619662e.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-804-UK-SONYONECOMEDYTV-LG_UK/playlist.m3u8
 SonyOneThrillerTV,https://52aad07d9d4f4d479d9b27e08ddf9e8b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-808-UK-SONYONETHRILLERTV-LG_UK/playlist.m3u8
+SpaceLive,https://linear-1224.frequency.stream/dist/lg-uk/1224/hls/master/playlist.m3u8
 Stories_by_AMC,https://amc-amcpresents-1-us.xumo.wurl.tv/2000.m3u8
 StrongmanChampionsLeague,https://cb4748b76e2c4b11bb5790666256964b.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_StrongmanChampionsLeague/playlist.m3u8
 StrongmanChampionsLeague,https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/1200.m3u8
@@ -221,7 +219,6 @@ tcm,https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO
 TD_Ameritrade,https://tdameritrade-distro.amagi.tv/playlist.m3u8
 TennisChannel,https://tennischanneldeu-rakuten.amagi.tv/playlist.m3u8
 TheDesignNetwork,https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlist/amg00441-thedesignnetworkllcfast-thedesignnetwork-rakutenus/playlist.m3u8
-TheDistrictofColumbia,http://video.oct.dc.gov/out/u/15_12.m3u8
 The_Country_Network,https://amg00600-amg00600c1-thecountrynetwork-us-5497.playouts.now.amagi.tv/playlist.m3u8
 the_nest,https://fast-channels.sinclairstoryline.com/THENEST/index_1.m3u8
 The_Pet_Collective,https://the-pet-collective-international-nl.samsung.wurl.tv/playlist.m3u8
@@ -253,6 +250,7 @@ WarnerTV,https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner.m3u8
 WASABI_Cartoon,https://amg01796-amg01796c3-rakuten-uk-2555.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-wasabii-rakutenuk/playlist.m3u8
 WeatherNation,https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8
 WeatherSpy,https://d12gab6t5iutxf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5f9kx6t1zhw2i/playlist.m3u8
+WestSicilyTV,https://64b16f23efbee.streamlock.net/westsicilytv/westsicilytv/playlist.m3u8
 WhiplashCinema,https://cdn.whiplash.cc/whiplash-cinema/index.m3u8
 WildEarth,https://wildearth-plex.amagi.tv/master.m3u8
 WildEarth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
