@@ -68,7 +68,6 @@ CookingPanda,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46
 Cops,https://69fc67603f914d73988ff4dc54a202c8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_CopsEnEspanol/playlist.m3u8
 create,https://create.lls.pbs.org/index.m3u8
 DareToDreamNetwork,https://3abn.bozztv.com/3abn2/d2d_live/smil:d2d_live.smil/playlist.m3u8
-DAZN_Combat,https://rakutenaa-dazn-combat-rakuten-kcybm.amagi.tv/ts-eu-w1-n2/playlist/rakutenAA-dazn-combat-rakuten/cb573a176570618784cc3e78d1f44582967b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ae704cc59e0a957f39e8fc8b307b24455a9c5a43e6a64ed6abb64244db6abfb102488b2f57f3d7459c8249edd3d4469d17d727ec159cc4f096da1986878c65fc01b5310a597b7ecad328a13c3cdca2f2e892011352242b66a4cea6f047288343036fecfedfba768d6ba4eb0ba010fa3f9dfa35e91e8579be01e7c043a5bfb2dc433b4bcc02ad9745d28e8498fe2d36b126d3abe5d1310bf15996e525bb0fe8035154a0f8c51a97da1980b72d8cb5237a52a5c01ccbcfe4d1a6d8e83b4950516c7a011e623777d1771df610a8cd9bb1be32d8ef1e244e4447acd57bc191e6673f7044bc273fbe0e36b6c1828fd30f749f2e4b1aa057d0550163db272c52d16da8ca723cd2663d8c3b6baf03759814a8f16cd4b7cbe9030cb0dcec4beb20bae65d9ca554e9251771369ede601f494576d5ae41083372cc0ca4f0c2f3780405a3a69ea88e0376577747123f8ae4e66292c1957a4a5892056645701758c75780278f4e194e7ebb6bb9c63e7d8b022e3af5e76e0d280bb8fcf1d0d7989a3efa15bae2f43a3d344a6cbb27774f43dab59f56ee374d6a0033a50b6346fd4a1a75e39bcdea8e932ca9b861b933761b73cf9346185fb212c69e13310ecf04871db538d56f0ff9410da7a01868/196/426x240_448800/index.m3u8
 DC_NETWORK,https://video.oct.dc.gov/out/u/DCN.m3u8
 Deportes_ITV_Mexico,https://thm-it-roku.otteravision.com/thm/it/it_720p_high.m3u8
 Discover_Film,https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
@@ -229,11 +228,11 @@ TNA_Wrestling,https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b21
 TNT,https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 TNT_East,https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/tnteast.us.m3u8
 TNT_West,https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/tntwest.us.m3u8
-Tom&Jerry,https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 TopSci-Fi,https://amg00609-amg00609c5-rakuten-uk-3764.playouts.now.amagi.tv/master.m3u8
 TotalCrime,https://bamca-crimetime-lg.amagi.tv/playlist.m3u8
 Trace_Sport,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 Trace_Sport_Stars_Australia,https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8
+TRT1,https://tv-trt1.medya.trt.com.tr/master.m3u8
 TRT_HABER,https://tv-trthaber.medya.trt.com.tr/master.m3u8
 TRT_World,https://tv-trtworld.medya.trt.com.tr/master.m3u8
 True_History,https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8
