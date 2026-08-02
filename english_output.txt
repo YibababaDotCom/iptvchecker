@@ -70,7 +70,6 @@ create,https://create.lls.pbs.org/index.m3u8
 DareToDreamNetwork,https://3abn.bozztv.com/3abn2/d2d_live/smil:d2d_live.smil/playlist.m3u8
 DC_NETWORK,https://video.oct.dc.gov/out/u/DCN.m3u8
 Deportes_ITV_Mexico,https://thm-it-roku.otteravision.com/thm/it/it_720p_high.m3u8
-Discover_Film,https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
 DramaHotpot,https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_4/dash.mpd
 Duck_TV_Cartoon,https://dxvpcwoxxgnqg.cloudfront.net/DuckTVHDSAMS/DuckTVHDSAMS_540p_AAC.stream/chunks.m3u8
 DW_News,https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8
@@ -99,7 +98,6 @@ FuboSports,https://ad993ce7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214
 FunRoads,https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8
 FX1,https://fxtvhls.wns.live/hls/stream.m3u8
 FX2,https://toonixhls.wns.live/hls/stream.m3u8
-Game+,https://a-cdn.klowdtv.com/live2/fntsy_720p/chunks.m3u8
 Gameshow_Network,https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
 gettv,https://53b950eaf1ae4b1aaabf8f402d7a372a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1074-GETTV-LG_US/playlist.m3u8
 Global_News,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
@@ -235,6 +233,7 @@ TRT_HABER,https://tv-trthaber.medya.trt.com.tr/master.m3u8
 TRT_World,https://tv-trtworld.medya.trt.com.tr/master.m3u8
 True_History,https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8
 tvN_Korea,https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8
+TVRINFO,https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/chunklist_b5160000.m3u8
 TVSClassicMovies,https://rpn.bozztv.com/gusa/gusa-tvsclassicmovies/tracks-v1a1/mono.m3u8
 TVSWesternMovies,https://rpn.bozztv.com/gusa/gusa-tvswesternmovies/tracks-v1a1/mono.m3u8
 TV_Brasil,https://tvbrasil-stream.ebc.com.br/index.m3u8
