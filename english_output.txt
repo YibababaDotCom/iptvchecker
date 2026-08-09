@@ -98,6 +98,7 @@ FuboSports,https://ad993ce7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214
 FunRoads,https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8
 FX1,https://fxtvhls.wns.live/hls/stream.m3u8
 FX2,https://toonixhls.wns.live/hls/stream.m3u8
+Game+,https://a-cdn.klowdtv.com/live2/fntsy_720p/chunks.m3u8
 Gameshow_Network,https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
 gettv,https://53b950eaf1ae4b1aaabf8f402d7a372a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1074-GETTV-LG_US/playlist.m3u8
 Global_News,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
@@ -246,7 +247,6 @@ WarnerTV,https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner.m3u8
 WASABI_Cartoon,https://amg01796-amg01796c3-rakuten-uk-2555.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-wasabii-rakutenuk/playlist.m3u8
 WeatherNation,https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8
 WeatherSpy,https://d12gab6t5iutxf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5f9kx6t1zhw2i/playlist.m3u8
-WestSicilyTV,https://64b16f23efbee.streamlock.net/westsicilytv/westsicilytv/playlist.m3u8
 WhiplashCinema,https://cdn.whiplash.cc/whiplash-cinema/index.m3u8
 WildEarth,https://wildearth-plex.amagi.tv/master.m3u8
 WildEarth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
