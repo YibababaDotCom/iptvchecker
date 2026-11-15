@@ -83,17 +83,10 @@ FIFA+,https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/
 FNX,https://castus-vod-dev.s3.amazonaws.com/vod_clients/kvcr/live/ch1/video.m3u8
 FoxWeather,https://247wlive.foxweather.com/stream/index.m3u8
 FOX_News,https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8
-FOX_Weather,https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
 FRANCE24,https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/playlist.m3u8
-France24Arabic,https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_2300.m3u8
-France24English,https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_2300.m3u8
-France24French,https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_2300.m3u8
 France24Spanish,https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_2300.m3u8
-FRANCE24法语,https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
-FRANCE24英语,https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
 France_24,https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8
 France_24_Arabic,https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_500.m3u8
-FRII,https://live-fi.tvkaista.net/frii/live.m3u8
 FuboSports,https://ad993ce7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfRnVib1Nwb3J0c05ldHdvcmtfSExT/playlist.m3u8
 FunRoads,https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8
 FX1,https://fxtvhls.wns.live/hls/stream.m3u8
@@ -121,6 +114,7 @@ ITV_deportes,https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 JewelryTelevisionEspanol,https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/72b5a55e4c35445f9e742871aa0aefa2/index.m3u8
 Jewish_Life_TV,https://jlt-jltv-stirr.otteravision.com/jlt/jltv/jltv.m3u8
 KBSWorld,https://cdn4.skygo.mn/live/disk1/KBSWorld/HLSv3-FTA/KBSWorld.m3u8
+LacrosseTV,https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
 Law&Crime,https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8
 Law&Crime,https://cdn.lawandcrime.net/rewind/playlist_scte.m3u8
 LOVE_NATURE,https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
@@ -174,8 +168,6 @@ RakutenActionMoviesUK,https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-we
 RakutenComedyMoviesUK,https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8
 RakutenDramaMoviesUK,https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8
 RakutenFamilyMoviesUK,https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8
-RakutenTopMoviesUK,https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
-RakutenTV_TopFilms,https://93ed06eba1ef4cf783b66dc6ea7c4f28.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5986/master.m3u8
 RakutenViki,https://dce1408e0efa4bc4b6ca1366c56911fb.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_RakutenViki/playlist.m3u8
 RealMadridTV,https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 RealWild,https://lds-realwild-rakuten.amagi.tv/playlist.m3u8
@@ -199,7 +191,6 @@ SonyMovies,https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
 SonyOneComedyTV,https://ec613694ee5049d3b8f30913b619662e.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-804-UK-SONYONECOMEDYTV-LG_UK/playlist.m3u8
 SonyOneThrillerTV,https://52aad07d9d4f4d479d9b27e08ddf9e8b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-808-UK-SONYONETHRILLERTV-LG_UK/playlist.m3u8
 Spark,https://rhine.webchnl.live/memfs/52b4200e-6ea9-4119-be31-0e73fa9c7d64.m3u8
-STARCHANNEL,https://live-fi.tvkaista.net/star-channel/live.m3u8?hd=true
 Stories_by_AMC,https://amc-amcpresents-1-us.xumo.wurl.tv/2000.m3u8
 StrongmanChampionsLeague,https://cb4748b76e2c4b11bb5790666256964b.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_StrongmanChampionsLeague/playlist.m3u8
 StrongmanChampionsLeague,https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/1200.m3u8
@@ -219,7 +210,6 @@ TNA_Wrestling,https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b21
 TNT,https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 TNT_East,https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/tnteast.us.m3u8
 TNT_West,https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/tntwest.us.m3u8
-Tom&Jerry,https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 TopSci-Fi,https://amg00609-amg00609c5-rakuten-uk-3764.playouts.now.amagi.tv/master.m3u8
 TotalCrime,https://bamca-crimetime-lg.amagi.tv/playlist.m3u8
 Trace_Sport,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
