@@ -55,7 +55,6 @@ CGTN,https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 CGTN_Documentary,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 CGTN_Documentary,https://english-livebkali.cgtn.com/live/doccgtn.m3u8
 CGTN_Spanish,https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8
-CINEMAXMOREMAX,http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 Circle,https://circle-samsung.amagi.tv/playlist.m3u8
 CityNewsCalgary,https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
 CityNewsToronto,https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
@@ -83,10 +82,17 @@ FIFA+,https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/
 FNX,https://castus-vod-dev.s3.amazonaws.com/vod_clients/kvcr/live/ch1/video.m3u8
 FoxWeather,https://247wlive.foxweather.com/stream/index.m3u8
 FOX_News,https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8
+FOX_Weather,https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
 FRANCE24,https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/playlist.m3u8
+France24Arabic,https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_2300.m3u8
+France24English,https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_2300.m3u8
+France24French,https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_2300.m3u8
 France24Spanish,https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_2300.m3u8
+FRANCE24法语,https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
+FRANCE24英语,https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
 France_24,https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8
 France_24_Arabic,https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_500.m3u8
+FRII,https://live-fi.tvkaista.net/frii/live.m3u8
 FuboSports,https://ad993ce7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfRnVib1Nwb3J0c05ldHdvcmtfSExT/playlist.m3u8
 FunRoads,https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8
 FX1,https://fxtvhls.wns.live/hls/stream.m3u8
@@ -164,9 +170,6 @@ Poker_Night_in_America,https://d2njbreu8qyfxo.cloudfront.net/scheduler/scheduleM
 Racer,https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8
 RaiNews24Italy,https://rainews2-live.akamaized.net/hls/live/598327/rainews2/rainews2/rainews_1800/chunklist.m3u8
 Rai_Italy,https://wzstreaming.rai.it/TVlive/smil:liveStream.smil/chunklist_b978000_slita.m3u8
-RakutenActionMoviesUK,https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
-RakutenComedyMoviesUK,https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8
-RakutenDramaMoviesUK,https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8
 RakutenFamilyMoviesUK,https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8
 RakutenViki,https://dce1408e0efa4bc4b6ca1366c56911fb.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_RakutenViki/playlist.m3u8
 RealMadridTV,https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
@@ -191,6 +194,7 @@ SonyMovies,https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
 SonyOneComedyTV,https://ec613694ee5049d3b8f30913b619662e.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-804-UK-SONYONECOMEDYTV-LG_UK/playlist.m3u8
 SonyOneThrillerTV,https://52aad07d9d4f4d479d9b27e08ddf9e8b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-808-UK-SONYONETHRILLERTV-LG_UK/playlist.m3u8
 Spark,https://rhine.webchnl.live/memfs/52b4200e-6ea9-4119-be31-0e73fa9c7d64.m3u8
+STARCHANNEL,https://live-fi.tvkaista.net/star-channel/live.m3u8?hd=true
 Stories_by_AMC,https://amc-amcpresents-1-us.xumo.wurl.tv/2000.m3u8
 StrongmanChampionsLeague,https://cb4748b76e2c4b11bb5790666256964b.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_StrongmanChampionsLeague/playlist.m3u8
 StrongmanChampionsLeague,https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/1200.m3u8
@@ -219,7 +223,6 @@ TRT_HABER,https://tv-trthaber.medya.trt.com.tr/master.m3u8
 TRT_World,https://tv-trtworld.medya.trt.com.tr/master.m3u8
 True_History,https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8
 tvN_Korea,https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8
-TVRINFO,https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/chunklist_b5160000.m3u8
 TVSClassicMovies,https://rpn.bozztv.com/gusa/gusa-tvsclassicmovies/tracks-v1a1/mono.m3u8
 TVSWesternMovies,https://rpn.bozztv.com/gusa/gusa-tvswesternmovies/tracks-v1a1/mono.m3u8
 TV_Brasil,https://tvbrasil-stream.ebc.com.br/index.m3u8
@@ -232,7 +235,6 @@ WarnerTV,https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner.m3u8
 WASABI_Cartoon,https://amg01796-amg01796c3-rakuten-uk-2555.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-wasabii-rakutenuk/playlist.m3u8
 WeatherNation,https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8
 WeatherSpy,https://d12gab6t5iutxf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5f9kx6t1zhw2i/playlist.m3u8
-WestSicilyTV,https://64b16f23efbee.streamlock.net/westsicilytv/westsicilytv/playlist.m3u8
 WhiplashCinema,https://cdn.whiplash.cc/whiplash-cinema/index.m3u8
 WildEarth,https://wildearth-plex.amagi.tv/master.m3u8
 WildEarth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
